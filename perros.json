@@ -1,0 +1,39 @@
+[
+    {
+        "nombre": "Perro 1",
+        "imagen": "",  
+        "origen": "Dog API",
+        "edad": 5
+    },
+    
+    {
+        "nombre": "Perro 2",
+        "imagen": "",  
+        "origen": "Dog API",
+        "edad": 3
+
+    },
+    {
+        "nombre": "Perro 3",
+        "imagen": "",  
+        "origen": "Dog API",
+        "edad": 7
+    },
+        {
+            "nombre": "Perro 4",
+            "imagen": "",  
+            "origen": "Dog API",
+            "edad": 2
+        },
+        {
+            "nombre": "Perro 5",
+            "imagen": "",  
+            "origen": "Dog API",
+            "edad": 5
+        }
+
+
+]
+ 
+
+    
