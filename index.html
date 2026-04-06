@@ -2,19 +2,22 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Dog API</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Reto 2 - Dog API + JSON</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-    <h1>🐶 Perro Aleatorio</h1>
+    <h1>🐶 Galería de Perros</h1>
 
-    <div id="contenedor">
-      
-    </div>
+    <button onclick="cargarImagenes()">Cargar imágenes</button>
 
-    <button onclick="obtenerPerro()">Cargar otro perro</button>
+    <div id="contenedor"></div>
 
+    <!-- PRIMERO el JSON convertido -->
+    <script src="perros.js"></script>
+
+    <!-- DESPUÉS tu lógica -->
     <script src="app.js"></script>
+
 </body>
 </html>
